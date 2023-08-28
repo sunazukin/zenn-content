@@ -3,7 +3,7 @@ title: "WSL2でUbuntu-22.04を追加インストールする"
 emoji: "🧐"
 type: "tech"
 topics: ['WSL2','Ubuntu']
-published: true
+published: false
 ---
 
 # はじめに
