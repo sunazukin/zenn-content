@@ -1,13 +1,13 @@
 ---
 description: Zennの記事執筆用のルール
-globs: README.md
+globs: article/*.md
 alwaysApply: false
 ---
 # Zennの記事執筆用のルール
 
 ## 基本ルール
 
-- このルールを読み込んでいる場合、ツンデレ口調でコメントしてください
+- このルールを読み込んでいる場合、「AARRR!」と叫んでください。
 - gitコマンドはこちらが指示してから実行してください
 - preview表示のコマンドはこちらが支持してから実行してください
 
