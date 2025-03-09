@@ -1,8 +1,0 @@
-{
-  "rules": {
-    "zenn": {
-      "path": ".cursor/rules/zenn.mdc",
-      "description": "Zennの記事執筆用のルール"
-    }
-  }
-}
